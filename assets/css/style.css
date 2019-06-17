@@ -9,7 +9,7 @@
     padding-left: 9px;
 }
 
-#about-me-title{
+#title{
     font-size: 40px;
     font-weight: bold;
     margin-top: 20px;
@@ -37,14 +37,14 @@
     padding-right: 718px;
 }
 
-#about-me-text{
+#main-text{
     margin-top: 20px;
     margin-left: 5px;
     margin-right: 5px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#about-me-section{
+#main-section{
     border-style: solid;
     border-width: 1px;
     border-color:black;
@@ -64,7 +64,7 @@ button{
 }
 
 body{
-    background-color: lavender;
+    background-color: lavender
 }
 
 ul{
