@@ -1,23 +1,12 @@
 #name{
-   
     font-size: 50px;
     font-weight: bold;
-    margin-left: 40px;
+    margin-left: 80px;
     background-color: lightseagreen;
     color: white;
     padding-bottom: 9px;
-    padding-right:9px;
+    padding-right: 9px;
     padding-left: 9px;
-
-   
-    
-
-    
-}
-
-#menu-bar{
-    ;
-    padding: 0;
 }
 
 #about-me-title{
@@ -25,11 +14,28 @@
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 20px;
-    color: lightseagreen
- 
+    color: lightseagreen;
 }
 
+#name-box{
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 800px;
+}
 
+#email-box{
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 718px;
+}
 
 #about-me-text{
     margin-top: 20px;
@@ -41,14 +47,20 @@
 #about-me-section{
     border-style: solid;
     border-width: 1px;
-    border-color:grey;
+    border-color:black;
     margin-top: 20px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
     padding: 25px;
     padding-top: 10px;
     background-color: white;
+}
 
+button{
+    background-color: lightseagreen;
+    color: white;
+    height: 40px;
+    width: 100px;
 }
 
 body{
@@ -59,11 +71,9 @@ ul{
     list-style-type: none;
     margin-top: 20px;
     margin-bottom: 16px;
-    margin-right: 40px;
+    margin-right: 80px; 
     padding: 0;
     float: right;
-
-   
 }
 
 li{
@@ -76,31 +86,23 @@ a{
 }
 
 div{
- 
     display: inline;
 }
-
-
 
 img{
     margin-top: 20px;
     margin-right: 5px;
-   
-
     float: left;
 }
-
-
 
 hr { 
     display: block;
     overflow: hidden;
     border-style: inset;
-    border-width: 1px;
-    
+    border-width: 1px; 
 }
 
 header{
     background-color: white;
-   
 }
+
