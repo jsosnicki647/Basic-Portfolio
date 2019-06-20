@@ -1,5 +1,5 @@
 #message-box{
-   width: 918px;
+   width: 913px;
    height: 100px;
 }
 
@@ -10,6 +10,11 @@
 
 #wrapper{
    min-height: 100%;
+}
+
+textarea{
+   width: 960px;
+   height: 500px;
 }
 
 #img-gal{
